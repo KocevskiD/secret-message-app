@@ -1,0 +1,15 @@
+
+.row{
+    margin-top: 25vh;
+}
+
+h1{
+    margin-top: 0;
+}
+.copied{
+    display: none;
+}
+.reveal{
+    display: block;
+    color: rgb(86, 182, 102)
+}
